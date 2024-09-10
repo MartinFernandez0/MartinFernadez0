@@ -4,6 +4,19 @@ Welcome to my GitHub profile! I'm passionate about software development, always 
 
 ---
 
+## 🛠️ Languages and Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/ASP.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
+</div>
+
+---
+
 ## 📈 My GitHub Stats
 
 <div align="center">
